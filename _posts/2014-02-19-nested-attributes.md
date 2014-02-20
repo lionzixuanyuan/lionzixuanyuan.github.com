@@ -2,7 +2,7 @@
 layout: post
 title: "Something About Nested Attributes"
 description: ""
-category: ""
+category: "Rails"
 tags: [nested_attributes]
 ---
 {% include JB/setup %}
