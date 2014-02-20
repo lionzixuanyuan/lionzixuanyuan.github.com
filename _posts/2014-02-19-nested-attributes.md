@@ -2,8 +2,8 @@
 layout: post
 title: "Something About Nested Attributes"
 description: ""
-category: nested_attributes
-tags: []
+category: ""
+tags: [nested_attributes]
 ---
 {% include JB/setup %}
 
