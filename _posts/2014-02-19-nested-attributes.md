@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Something About Nested Attributes"
-description: ""
+description: "nested attributes basics"
 category: "Rails"
 tags: [nested_attributes]
 ---
