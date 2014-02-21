@@ -159,7 +159,7 @@ tags: [nested_attributes]
 
 ###Validating the presence of a parent model
 
-假如需要验证，确保一个子对象实例和一个父对象实例相关联，我们可以使用 validates_presence_of 和 inverse_of 方法，如下所示
+假如需要验证，确保一个子对象实例和一个父对象实例相关联，我们可以使用 validates_presence_of  方法，如下所示
 
     class Member < ActiveRecord::Base
       has_many :posts, inverse_of: :member
